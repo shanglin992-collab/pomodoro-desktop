@@ -1,0 +1,33 @@
+# Compiled binaries
+*.exe
+*.exe.bak
+
+# Build artifacts
+build/
+dist/
+__pycache__/
+android/__pycache__/
+*.spec.bak
+
+# macOS generated
+*.icns
+*.iconset/
+
+# Empty dirs
+termux_apk/
+
+# Python
+*.py[cod]
+*.egg-info/
+
+# Virtual env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
